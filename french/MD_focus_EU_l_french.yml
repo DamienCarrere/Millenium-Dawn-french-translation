@@ -315,7 +315,7 @@
  EU_tutorial.120.c: "Chapitre 12.3 - Commandes de la Console"
  EU_tutorial.120.e: "Retour au Menu Principal du Tutoriel"
 
-EU_tutorial.121.t: "Chapitre 12.1 - Astuces"
+ EU_tutorial.121.t: "Chapitre 12.1 - Astuces"
  EU_tutorial.121.d: "Pour faire avancer l'intégration européenne, il faut garder à l'esprit les points suivants:\n- une grande influence sur les États membres est essentielle pour faire passer les propositions par le vote\n- une Union plus petite est plus facile à gérer qu'une grande\n- une Union plus petite est plus facile à unifier qu'une grande\n- si l'intégration européenne progresse trop rapidement, certains États membres pourraient se perdre en cours de route"
  EU_tutorial.121.a: "Page Suivante"
 
@@ -1136,7 +1136,7 @@ EU_tutorial.121.t: "Chapitre 12.1 - Astuces"
  EU_voting_decision_EU500_retry: "Politiques de la Commission européenne (Réessayer)"
  EU_voting_decision_EU500_retry_desc: "Assez de temps s'est écoulé depuis que la proposition des politiques de la Commission européenne a été REJETÉE, donc nous pouvons la préparer pour la soumettre à nouveau au vote."
  ### EU Enlargement ###
-EU_voting_decision_focus_EU600: "Élargissement de l'UE"
+ EU_voting_decision_focus_EU600: "Élargissement de l'UE"
  EU_voting_decision_focus_EU600_desc: "Nous pouvons soumettre l'élargissement de l'UE au vote. Il s'agit d'un vote à l'unanimité, donc chaque État membre doit voter OUI pour que la proposition soit ACCEPTÉE."
  EU_voting_decision_focus_EU600_QMV: "Élargissement de l'UE (MQ)"
  EU_voting_decision_focus_EU600_QMV_desc: "Nous pouvons soumettre l'élargissement de l'UE au vote. Il s'agit d'un vote à majorité qualifiée (MQ), donc une majorité de 55% des États membres, qui représentent 65% de la population de l'UE, doit voter OUI pour que la proposition soit ACCEPTÉE."
@@ -3672,7 +3672,7 @@ EU_voting_decision_focus_EU600: "Élargissement de l'UE"
  tooltip_ECB_expand_OMT_limit_effect: "§YLimite de taille des OMT§!: Ajouter §G+$200§! milliards.\nTous les États membres avec un §Ytaux d'intérêt§! < §R4.0%§!: Ajouter §R+5%§! d'euroscepticisme.\nTous les États membres avec un §Ytaux d'intérêt§! > §R4.0%§!: Ajouter §G-5%§! d'euroscepticisme.\n"
  tooltip_ECB_reduce_OMT_limit_effect: "§YLimite de taille des OMT§!: Ajouter §R-$200§! milliards.\nTous les États membres avec un §Ytaux d'intérêt§! < §R4.0%§!: Ajouter §G-5%§! d'euroscepticisme.\nTous les États membres avec un §Ytaux d'intérêt§! > §R4.0%§!: Ajouter §R+5%§! d'euroscepticisme.\n"
 
-tooltip_ECB_Outright_Monetary_Transactions_available: "§YLimite de taille des OMT§! > $0."
+ tooltip_ECB_Outright_Monetary_Transactions_available: "§YLimite de taille des OMT§! > $0."
  tooltip_ECB_Outright_Monetary_Transactions_complete_effect: "Tous les États membres avec un §Ytaux d'intérêt§! > §R4.0%§!: Leur dette est réduite jusqu'à ce que le §Ytaux d'intérêt§! < §R4.0%§! ET que la §Glimite de taille des OMT§! > §Bvaleur totale des OMT§!.\n"
  tooltip_ECB_Outright_Monetary_Transactions_remove_effect: "Tous les États membres avec un §Bcompte OMT§! > $0: §RAjouter§! le §Bcompte OMT§! à la dette.\n"
 
