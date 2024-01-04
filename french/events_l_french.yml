@@ -2037,7 +2037,7 @@
  overlord.1.t: "Intégration de [FROM.GetName]"
  overlord.1.d: "[FROM.GetName] est notre état fantoche depuis bien trop longtemps. Ce n'est plus un partenariat viable pour leur permettre d'avoir de l'autonomie. Ce jour de [GetYear] marque un tournant que nous désirions depuis longtemps. [FROM.GetName] a été intégré à notre grande nation. Ils deviendront désormais des citoyens [ROOT.GetAdjective] et recevront les mêmes soins et traitements que n'importe quel autre citoyen de notre pays. C'est un jour glorieux pour nous et pour le peuple [FROM.GetName].\nREMARQUE : L'annexion d'une autre nation souveraine nous oblige à assumer l'intégralité de sa dette, de sa trésorerie et de ses investissements internationaux lors de sa fusion avec nous.\n\nVous obtenez les éléments suivants: Trésorerie: [?ROOT.treasury|Y], Dette: [?ROOT.debt|R], Investissements internationaux: [?ROOT.int_investments]"
  overlord.1.a: "Merveilleux!"
- overlord.1.a_tt: "Nous gagnons §YCores§! [Root.GetDuDelaDelNP] §B[FROM.GetName]§!\n"
+ overlord.1.a_tt: "Les régions [Root.GetDuDelaDelNP] §B[FROM.GetName]§! feront partie intégrante de notre §Yterritoire national§!\n"
 
  overlord_news.1.t: "[ROOT.GetName] intègre [FROM.GetName]"
  overlord_news.1.d: "Les délégations [Root.GetDuDelaDelNP] [ROOT.GetName] et [Root.GetDuDelaDelNP] [FROM.GetName] ont annoncé aujourd'hui que [FROM.GetName] fera parttie intégrante [Root.GetDuDelaDelNP] [ROOT.GetName]. [FROM.GetName] est un État autonome depuis un certain temps et est devenu de plus en plus dépendant [Root.GetDuDelaDelNP] [ROOT.GetName] au cours des derniers mois. Il est cité comme suit : « Cela n'a pas de sens ! » des deux parties impliquées.\n\nLa vérité dans cette déclaration reste à découvrir.."
