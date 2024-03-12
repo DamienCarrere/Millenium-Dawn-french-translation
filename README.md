@@ -5,8 +5,8 @@ French translation for Millenium Dawn: A Modern Day Mod
 ## Comment l'utiliser? / How to use it
 
 1/ Tout d'abord, vous devez télécharger la dernière version de la traduction: 
+
     - Soit vous téléchargez la version "stable" vérifiée dans "realease" puis votre numéro de version, puis vous cliquez sur le .zip et voilà!
-    
     - Soit vous téléchargez la version "moins stable" (traductions peut-être bancales car non vérifiées in-game, dans ce cas-là vous cliquez sur le bouton vert "code" puis "Download ZIP"
 
 2/ Vous ouvez votre explorateur de fichier Windows, et allez dans C:\Program Files(x86)\Steam\steamapps\workshop\content\394360\2777392649\localization
