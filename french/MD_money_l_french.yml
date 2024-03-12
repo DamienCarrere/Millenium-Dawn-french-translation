@@ -197,6 +197,10 @@
  7_total_gdp_tt: "Plus de §Y7000§!$$ milliards en PIB total (Actuel: §Y[?ROOT.gdp_total]§!$$ milliards)"
 
  ##Tooltips for additional incomes and expenses
+ alaa_income_tt: "$$[?additional_income_mubarak|+3] de §Y$EGY_mubarak_money$§!\n"
+ us_helps_income_tt: "$$[?additional_income_us_helps|+3] de §Y$EGY_us_helps$§!\n"
+ suez_deal_income_tt: "$$[?additional_income_newsuez|+3] de §Y$EGY_suez_deal_idea$§!\n"
+ azhar_income_tt: "$$[?additional_income_azhar|+3] de §Y$EGY_al_azhar_uni_idea$§!\n"
  full_control_of_suez_TT: "[?additional_income_suez|+3]$$ de §Y$full_control_of_suez$§!\n"
  BOS_united_nations_aid_TT: "[?Bosnia_united_nations_aid|+3]$$ de §YBanque mondiale, USAID, PNUD et CARDS§!\nSera §Rannulé§! si le soutien international est arrêté"
  BOS_EUFOR_aid_money: "[?BOS_EUFOR_aid_money|+3]$$ du §YCARDS§!\n"
@@ -268,6 +272,13 @@
  BLR_minotor_servise_blr_income_loc: "$$[?additional_income_BLR_minotor_servise_blr|+3] du §YService Minotor§!\n"
  BLR_mzkt_contract_blr_income_loc: "$$[?additional_income_BLR_mzkt_contract_blr|+3] du §YMZKT§!\n"
  DPR_rf_money_income_loc: "$$[?additional_income_DPR_rf_money|+3] de la §YRussie§!\n"
+ SMA_increased_tourism_gain_loc: "$$[?SMA_increased_tourism_gain|+3] de l'§YIndustrie du Tourisme §!\n"
+ SMA_balance_tourism_ii_gain_loc: "$$[?SMA_balance_tourism_ll_gain|+3] de l'§YIndustrie du Tourisme§!\n"
+ SMA_balance_tourism_i_gain_loc: "$$[?SMA_balance_tourism_l_gain|+3] de l'§YIndustrie du Tourisme§!\n"
+ SMA_balance_balance_gain_loc: "$$[?SMA_balance_balance_gain|+3] des §YEntreprises de l'Industrie§! et l'§YIndustrie du Tourisme§!\n"
+ SMA_balance_economy_i_gain_loc: "$$[?SMA_balance_economy_l_gain|+3] des §YEntreprises de l'Industrie§!\n"
+ SMA_balance_economy_ii_gain_loc: "$$[?SMA_balance_economy_ll_gain|+3] des §YEntreprises de l'Industrie§!\n"
+ SMA_increased_economy_gain_loc: "$$[?SMA_increased_economy_gain|+3] des §YEntreprises de l'Industrie§!\n"
  china_travel_ban_additional_expenses: "[?additional_expense_china_travel_ban|-3]$$ de §Y$china_travel_ban$§!\n"
  iran_war_compensation_half_billion_TT: "[?additional_income_iran_war_compensation_half|+3]$$ des §Ycompensations de l'Irak§!\n"
  iran_war_compensation_one_billion_TT: "[?additional_income_iran_war_compensation_one|+3]$$ des §Ycompensations de l'Irak§!\n"
@@ -468,7 +479,6 @@
  bankruptcy.5.d: "Le problème de dette [FROM.GetDuDelaDelNP] [FROM.GetName] est devenu si mauvais qu'ils n'ont aucune chance de la rembourser ou même de payer les intérêts courants. Avec la réelle possibilité d'une faillite, c'est dans des circonstances désespérées que le dirigeant [FROM.GetAdjMS] [FROM.GetLeader] est allé [ROOT.GetAuEnANP] [ROOT.GetName] pour demander de l'aide à [ROOT.GetLeader].\n\n[FROM.GetLeLaLNPCap] [FROM.GetName] nous demande de régler une partie de la dette de [?FROM.debt_bailout|0]$ §Ymilliards§! en payant la moitié du montant et en annulant le reste. Si nous le faisons, cela calmera les autres prêteurs internationaux, réduisant considérablement les coûts d'emprunts [FROM.GetDuDelaDelNP] [FROM.GetName], ce qui rend leur dette importante gérable.\n\nBien que nous perdions de l'argent en faisant cela, ils nous seront sérieusement redevables, et notre influence sur eux augmentera considérablement."
  bankruptcy.5.a: "Accorder le renflouement [FROM.GetAuAlaAlNP] [FROM.GetName]"
  bankruptcy.5.b: "Désolé, nous ne pouvons pas nous le permettre."
- bankruptcy_bailout_influence_overlord_TT: "[From.GetNameWithFlag]: l'§Yinfluence§! [ROOT.GetDuDelaDelNP] [ROOT.GetName] augmente de §G5%§!"
 
  #Financial collapse stuff
  bankruptcy.10.t: "L'opposition exige des élections"
@@ -697,5 +707,6 @@
  debt_default_ecomomic_boom_desc: "Lorsque le pays a sombré dans le chaos après avoir fait défaut sur sa dette, la monnaie locale a perdu de sa valeur, l'inflation a explosé, le chômage a grimpé en flèche et la bourse s'est effondrée. Maintenant que nous avons stabilisé la situation, de nombreux acteurs étrangers voient en nous un investissement bon marché, car les coûts de la main-d'œuvre, des biens et de l'immobilier n'ont jamais été aussi bas. Cela va donner un coup de fouet à notre économie, car l'argent étranger afflue dans le pays."
  population_tax_stability_hit: "£pol_idea Taxes de la population"
  corporate_tax_consumer_goods_hit: "£pol_idea Coût de l'impôt sur les sociétés:"
+ resources_manpower_fulfillment_modifier: "Accomplissement de la main-d'œuvre du secteur des ressources"
  set_improved_trade_agreement_tt: "Création d'un accord commercial entre §Y[?var:sender_nation.GetNameWithFlag]§! et §Y[?var:receiver_nation.GetNameWithFlag]§!\n"
  remove_improved_trade_agreement_tt: "Supprime l'accord commercial entre §Y[?var:sender_nation.GetNameWithFlag]§! et §Y[?var:receiver_nation.GetNameWithFlag]§!\n"
