@@ -1968,6 +1968,7 @@
  GRANT_MEDAL_COST_FACTOR: "£medal_texticon  Coût de l'attribution de médailles"
  FIELD_OFFICER_PROMOTION_PENALTY: "£army_leader_cost_texticon  Pénalité de promotion de l'officier de terrain"
  FEMALE_DIVISIONAL_COMMANDER_CHANCE: "£officer_texticon  Chance de commandant divisionnaire féminin"
+#politics_l_english
  POLITICS_IDEOLOGY_POPULARITY_CHANGE: "£boost_popularity_texticon  Changement de popularité de $IDEOLOGY$: $VALUE|+2%$"
  corruption_cost_factor: "£corruption_cost_factor_texticon Coût pour changer la Corruption"
  economic_cycles_cost_factor: "£economic_cycles_cost_factor_texticon Coût pour changer les Cycles économiques"
