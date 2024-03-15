@@ -89,7 +89,7 @@
  call_pmc_back_sov: "Rappeller les unités"
  call_pmc_back_sov_desc: "Cela nous permettra de ramener nos gars à la maison, mais nous devrons payer une indemnité pour la rupture du contrat avec chaque pays."
  pmc_category: "Société Militaire Privée"
- pmc_category_desc: "\n\n\n\n\n\n£CHVK_desctext_pmc\n\n\n\n\n\n\n\n\n§YSociété Militaire Privée§!.\n\n§GLouer§! votre propre §Yarmée privée!§!\nLes §YSociétés§! qui nous sont §Gloyales§!, ou celles que nous contrôlons directement, nous donneront §Y20%§! de §Gréduction§! sur leur services.\n\n[PMC_max_available]\n§YListe actuelle des SMP§!:\n[PMC_Header_blackwater][PMC_Header_wagner][PMC_Header_aegis][PMC_Header_constellis][PMC_Header_md]"
+ pmc_category_desc: "\n\n\n\n\n\n£CHVK_desctext_pmc\n\n\n\n\n\n\n\n\n§YSociété Militaire Privée§!.\n\n§GLouez§! votre propre §Yarmée privée!§!\nLes §YSociétés§! qui nous sont §Gloyales§!, ou celles que nous contrôlons directement, nous donneront §Y20%§! de §Gréduction§! sur leur services.\n\n[PMC_max_available]\n§YListe actuelle des SMP§!:\n[PMC_Header_blackwater][PMC_Header_wagner][PMC_Header_aegis][PMC_Header_constellis][PMC_Header_md]"
  pmc_local_management: "Unités militaires locales"
  pmc_local_management_desc: "Société Militaire Privée Locale. Les Sociétés locales bénéficieront toujours d'une réduction de 20%.\nNous pouvons étendre notre capacité jusqu'à 7. Nous pouvons améliorer notre qualité jusqu'au niveau 4.\n\n[PMC_max_available]\n[PMC_local_header]"
  form_local_pmc: "Former une SMP locale"

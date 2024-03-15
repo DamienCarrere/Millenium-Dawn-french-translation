@@ -122,7 +122,7 @@
  foreign_influence_defense_modifier_desc: "$foreign_influence_defense_modifier$ est un modificateur qui affaiblit les actions d'influence étrangère dans notre nation."
  foreign_influence_modifier: "£foreign_influence_modifier_texticon §YInfluence étrangère§!"
  influence_coup_modifier: "£foreign_influence_auto_influence_cap_modifier_texticon  §YInfluence étrangère§! Facteur de succès du coup d'État"
- foreign_influence_auto_influence_cap_modifier: "£foreign_influence_auto_influence_cap_modifier_texticon §YInfluence étrangère§! Cap d'auto-influence"
+ foreign_influence_auto_influence_cap_modifier: "£foreign_influence_auto_influence_cap_modifier_texticon §YCapacité d'influence§!"
  tax_gain_multiplier_modifier: "£tax_gain_multiplier_modifier_texticon §YRevenus fiscaux§!"
  interest_rate_multiplier_modifier: "£interest_rate_multiplier_modifier_texticon §YTaux d'intérêt§!"
  personnel_cost_multiplier_modifier: "£personnel_cost_multiplier_modifier_texticon §YCoût militaire§!"
