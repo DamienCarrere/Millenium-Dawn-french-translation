@@ -87,7 +87,7 @@
  RUS_AI_PUTIN_BEHAVIOR: "@SOV Autres priorités de la Russie"
  RULE_SUPPORT_ARMY: "Création rapide d'une armée forte"
  RULE_SUPPORT_ARMY_DESC: "La Russie s'efforcera de créer une armée forte dès que possible, ignorant les aspects politiques"
- RULE_SUPPORT_WAGNER: "PMC Wagner"
+ RULE_SUPPORT_WAGNER: "SMP Wagner"
  RULE_SUPPORT_WAGNER_DESC: "La Russie créera  §YWagner§! dès que possible et utilisera toutes ses capacités"
  RULE_SUPPORT_ARMENIA: "Coalition §Yanti-turque§! (Zhirinovsky)"
  RULE_SUPPORT_ARMENIA_DESC: "La Russie va commencer à rassembler des alliés pour combattre §Yl'influence turque§!"

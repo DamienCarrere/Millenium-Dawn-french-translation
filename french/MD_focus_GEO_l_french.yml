@@ -25,7 +25,7 @@
  GEO_give_passports_to_everyone_desc: "huh"
  GEO_tskinvali_attack: "Tskhinvali Battle Plan"
  GEO_tskinvali_attack_desc: "Tiger Attack Plan - A planned operation to return Ossetia to Georgia. Perhaps it is worth taking this risky step."
- GEO_pmc_support_instr: "Invite PMC Instructors"
+ GEO_pmc_support_instr: "Invite SMP Instructors"
  GEO_pmc_support_instr_desc: "We need the help of qualified military instructors in order to successfully organize our army and gain additional efficiency for a future attack."
  GEO_fail_war_geo2008: "Defeat in 2008 War"
  GEO_fail_war_geo2008_desc: "oh nooooo"
@@ -604,7 +604,7 @@
  georg_war2008.4.a: "Ugh, traitors."
  georg_war2008.4.b: "Wonderful."
 
- GEO_pmc_help: "Help from PMC's"
+ GEO_pmc_help: "Help from SMP's"
 
  georg_war2008.5.t: "Georgia proposes an Agreement."
  georg_war2008.5.d: "Georgia wants to offer us a full-fledged agreement on Abkhazia and South Ossetia, under which they will renounce their claims and recognize the unrecognized republics. This is good, of course, but we must not allow Georgia to enter NATO after that..."
