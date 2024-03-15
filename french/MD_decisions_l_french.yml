@@ -50,11 +50,11 @@
  SWE_nationalist_claims_FIN_desc: "Åland est ethniquement suédoise, et les Finlandais inférieurs devraient la céder immédiatement ou en subir les conséquences!"
 
  generic_coalition_politics_desicions: "Décisions politiques [ROOT.GetAdjFP]"
- generic_coalition_politics_desicions_desc: "Lois politiques:\n\nA des élections: [has_elections_check]\nSeuil d'élection: [?election_threshold|%0] [term_limit_text]"
+ generic_coalition_politics_desicions_desc: "\n\n\n\n\n\n£MAIN_desctext_elections\n\n\n\n\n\n\n\n\n [Root.GetFlag]§YLois politiques§!:\n\n[Root.GetFlag]§YA des élections§!: [has_elections_check]\n[Root.GetFlag]§YSeuil d'élection§!: [?election_threshold|%0] [term_limit_text]"
  term_limit_text: "\nLimite de mandat: [?term_limit]\nMandat en cours: [?current_term]"
- has_election_no: "Non"
- has_election_yes: "Oui"
- remove_usaid: "Demander le retrait de l'USAID"
+ has_election_no: "§RNon§!"
+ has_election_yes: "§GOui§!"
+ remove_usaid: "§RDemander le retrait§! de l'USAID"
  remove_usaid_desc: "Il est temps de nous dresser fermement contre les États Unis et de rejeter son aide. Nous n'en avons pas besoin et nous n'en aurons jamais besoin. Nous resterons forts en tant que nation et en tant que peuple contre l'ingérence des puissances occidentales dans notre nation."
  GEN_remove_saudi_aid: "Bloquer le financement saoudien des mosquées"
  GEN_remove_saudi_aid_desc: "Le financement saoudien des mosquées dans notre pays est terriblement inutile et il est donc temps d'éliminer leur présence dans notre grande nation."
@@ -63,19 +63,19 @@
  GEN_allow_al_jazeera: "Autoriser Al-Jazeera"
  GEN_ban_al_jazeera: "Interdire Al-Jazeera"
 
- retire_current_leader: "[ROOT.GetLeader]: démissionner du poste de dirigeant"
+ retire_current_leader: "§Y[ROOT.GetLeader]§!: démissionner du poste de dirigeant"
  retire_current_leader_desc: "Bien qu'il s'agirait certainement d'un choc et d'un prix politique élevé, et que cela exclurait à jamais la possibilité d'un retour de [ROOT.GetLeader] en politique, il existe une possibilité ouverte de prendre sa retraite pour passer plus de temps avec sa famille.\n\n§WEffet:§!\n§H[ROOT.GetLeader]§! §Wdémissionnera de son poste de dirigeant [ROOT.GetDuDelaDelNP] [ROOT.GetName]§!\n§H[show_ruling_party]§! §Wchoisira un nouveau dirigeant parmi ses rangs.§!"
 
- hold_reelections: "Organiser de nouvelles élections"
+ hold_reelections: "§YOrganiser de nouvelles élections§!"
  hold_reelections_desc: "De nouvelles élections seront organisées dans 14 jours. En raison de leur caractère extraordinaire, les prochaines élections qui suivront seront toujours organisées à la date prévue."
 
- permanently_suspend_elections: "Suspension permanente des élections"
+ permanently_suspend_elections: "§RSuspension permanente§! des élections"
  permanently_suspend_elections_desc: "Comme nous sommes actuellement un gouvernement enclin à l'autocratie, nous serions stupides d'organiser à nouveau des élections qui pourraient menacer notre emprise sur le pouvoir."
 
- return_democracy: "Permettre la démocratie et les élections [ROOT.GetAuEnANP] [ROOT.GetName]"
+ return_democracy: "§1Permettre la démocratie§! et les élections [ROOT.GetAuEnANP] [ROOT.GetName]"
  return_democracy_desc: "Nous pouvons choisir de démocratiser le pays et de commencer à organiser de véritables élections. Cependant, même si nous restons au pouvoir pour le moment, il pourrait être dangereux de laisser le peuple décider."
 
- demobilize_after_warfare_mission: "Démobiliser la nation"
+ demobilize_after_warfare_mission: "§GDémobiliser§! la nation"
  demobilize_after_warfare_mission_desc: "Nos jours de guerre sont terminés et il est désormais temps pour nous de réduire nos dépenses militaires."
 
  fascism_extremist_civil_war: "Le [Nat_Fascism_L] ([?party_pop_array^21|%0]) lance un soulèvement pour renverser le gouvernement"
