@@ -940,13 +940,9 @@
  taiwan_news.6.a: "Taiwan riposte."
 
  ### Hong Kong Events ###
- hongkong.1.t: "Hong Kong ébranlé par de vastes manifestations"
- hongkong.1.d: "Suite à la décision de la Chine d'exclure la possibilité pour Hong Kong d'élire son chef exécutif au suffrage universel, des manifestations de masse ont éclaté dans le territoire chinois. [HKG.GetLeader] a déclaré que si le gouvernement de Hong Kong respecte le droit des Hongkongais à exprimer pacifiquement et légalement leurs opinions, la violence et l'anarchie ne seront pas tolérées. La réponse de la Chine à la crise actuelle reste à voir, car [CHI.GetLeader] n'a pas commenté les récents événements."
- hongkong.1.d_limit: "À la suite de la décision de la Chine selon laquelle le chef de l'exécutif de Hong Kong ne pourrait être élu au suffrage universel que si celle-ci approuve au préalable les candidats, des manifestations de masse ont éclaté dans le territoire chinois. [HKG.GetLeader] a déclaré que s'il respecte le droit des Hongkongais à exprimer pacifiquement et légalement leurs opinions, la violence et l'anarchie ne seront pas tolérées. La réponse de la Chine à la crise actuelle reste à voir, car [CHI.GetLeader] n'a pas commenté les récents événements."
- hongkong.1.d_reunification: "À la suite de l'annonce de la Chine selon laquelle Hong Kong perdra son statut spécial en 2047 et reviendra complètement sous le contrôle de la Chine, des manifestations de masse ont éclaté dans le territoire chinois. [HKG.GetLeader] a déclaré que si le gouvernement de Hong Kong respecte le droit des Hongkongais à exprimer pacifiquement et légalement leurs opinions, la violence et l'anarchie ne seront pas tolérées. La réponse de la Chine à la crise actuelle reste à voir, car [CHI.GetLeader] n'a pas commenté les récents événements."
- hongkong.1.d_annexed: "Suite à l'annexion très controversée de Hong Kong par la Chine, des manifestations de masse ont éclaté dans le territoire chinois. [HKG.GetLeader] a déclaré que si le gouvernement de Hong Kong respecte le droit des Hongkongais d'exprimer pacifiquement et légalement leurs opinions, la violence et l'anarchie ne seront pas tolérées. La réponse de la Chine à la crise actuelle reste à voir, car [CHI.GetLeader] n'a pas commenté les récents événements."
- hongkong.1.a: "Une évolution intéressante."
- hongkong.1.b: "C'est plutôt une mauvaise nouvelle."
+ hongkong.1.t: "Les Chinois ont refusé d'annuler l'annexion!"
+ hongkong.1.d: "La Chine a rejeté nos menaces, ne nous laissant d'autre choix que d'y donner suite."
+ hongkong.1.a: "Ils ne semblent plus avoir peur de nous."
 
  hongkong.2.t: "La Chine déploie des troupes à Hong Kong"
  hongkong.2.d: "À la suite de manifestations dans la région administrative spéciale de Hong Kong, la Chine a ordonné à plusieurs unités de l'Armée populaire de libération de descendre dans les rues de Hong Kong pour « rétablir la loi et l'ordre ». [CHI.GetLeader] a assuré aux « manifestants pacifiques » qu'ils ne seraient pas pris pour cible et que tous ceux qui seraient arrêtés seraient traités conformément au droit international des droits de l'homme. Cependant, de nombreuses personnes à Hong Kong et à l'étranger ont exprimé leur scepticisme quant à la mesure dans laquelle les troupes chinoises feront preuve de retenue envers les manifestants."
@@ -979,20 +975,24 @@
  hongkong.7.t: "Les Chinois ont accepté de revenir sur l'annexion"
  hongkong.7.d: "Visiblement impressionnés par la puissance britannique, les Chinois ont fait marche arrière sur la question de Hong Kong."
  hongkong.7.a: "Nos menaces ont toujours un effet!"
+ ### Hong Kong News Events ###
+ hongkong_news.1.t: "Hong Kong secouée par de nombreuses manifestations"
+ hongkong_news.1.d: "Suite à la décision de la Chine d'exclure la possibilité que Hong Kong élise son chef de l'exécutif au suffrage universel, des manifestations massives ont éclaté sur le territoire chinois. [HKG.GetLeader] a déclaré que même si le gouvernement de Hong Kong respecte le droit des Hongkongais d'exprimer pacifiquement et légalement leurs opinions, la violence et l'anarchie ne seront pas tolérées. La réponse de la Chine à la crise actuelle reste à voir, car [CHI.GetLeader] n'a pas commenté les événements récents."
+ hongkong_news.1.d_limit: "Suite à la décision chinoise selon laquelle le chef de l'exécutif de Hong Kong ne pourrait être élu au suffrage universel que si les candidats étaient préalablement approuvés, des manifestations massives ont éclaté sur le territoire chinois. [HKG.GetLeader] a déclaré que même si le gouvernement de Hong Kong respecte le droit des Hongkongais d'exprimer pacifiquement et légalement leurs opinions, la violence et l'anarchie ne seront pas tolérées. La réponse de la Chine à la crise actuelle reste à voir, car [CHI.GetLeader] n'a pas commenté les événements récents."
+ hongkong_news.1.d_reunification: "Suite à l'annonce par la Chine selon laquelle Hong Kong perdrait son statut spécial et reviendrait complètement sous contrôle chinois en 2047, des manifestations massives ont éclaté sur le territoire chinois. [HKG.GetLeader] a déclaré que même si le gouvernement de Hong Kong respecte le droit des Hongkongais d'exprimer pacifiquement et légalement leurs opinions, la violence et l'anarchie ne seront pas tolérées. La réponse de la Chine à la crise actuelle reste à voir, car [CHI.GetLeader] n'a pas commenté les événements récents."
+ hongkong_news.1.d_annexed: "Suite à l'annexion très controversée de Hong Kong par la Chine, des manifestations massives ont éclaté sur le territoire chinois. [HKG.GetLeader] a déclaré que même si le gouvernement de Hong Kong respecte le droit des Hongkongais d'exprimer pacifiquement et légalement leurs opinions, la violence et l'anarchie ne seront pas tolérées. La réponse de la Chine à la crise actuelle reste à voir, car [CHI.GetLeader] n'a pas commenté les événements récents."
+ hongkong_news.1.a: "Une évolution intéressante."
+ hongkong_news.1.b: "C'est une mauvaise nouvelle pour nous."
 
- hongkong.8.t: "Les Chinois ont refusé de revenir sur l'annexion!"
- hongkong.8.d: "La Chine a rejeté nos menaces, ne nous laissant pas d'autre choix que de les mettre à exécution."
- hongkong.8.a: "Ils ne semblent plus nous craindre."
-
- hongkong.9.t: "Les manifestations à Hong Kong s'essoufflent"
- hongkong.9.d: "Les manifestations organisées dans la région administrative spéciale de Hong Kong pour protester contre les récentes actions de la Chine ont progressivement diminué ces derniers jours et se sont pratiquement arrêtées. Les opérations de police dans le territoire chinois n'ont rencontré aucune résistance, et de nombreuses personnes qui étaient descendues dans la rue sont rentrées chez elles. Il reste à voir ce que cela signifie pour les relations entre la Chine et un territoire troublé dont les valeurs politiques sont très différentes des siennes. Une bannière laissée par les manifestants dans un endroit bien en vue du centre-ville, sur laquelle on pouvait lire « We will be back », est peut-être un indicateur de ce qui va se passer."
- hongkong.9.a: "Une évolution intéressante."
- hongkong.9.b: "Ils savent que leur cause est futile."
+ hongkong_news.2.t: "Les manifestations à Hong Kong s'essoufflent"
+ hongkong_news.2.d: "Les manifestations organisées dans la région administrative spéciale de Hong Kong pour protester contre les récentes actions de la Chine ont progressivement diminué ces derniers jours et se sont pratiquement arrêtées. Les opérations de police dans le territoire chinois n'ont rencontré aucune résistance, et de nombreuses personnes qui étaient descendues dans la rue sont rentrées chez elles. Il reste à voir ce que cela signifie pour les relations entre la Chine et un territoire troublé dont les valeurs politiques sont très différentes des siennes. Une bannière laissée par les manifestants dans un endroit bien en vue du centre-ville, sur laquelle on pouvait lire \"We will be back\", est peut-être un indicateur de ce qui va se passer."
+ hongkong_news.2.a: "Une évolution intéressante."
+ hongkong_news.2.b: "Ils savent que leur cause est futile."
 
  hongkong.10.t: "Les manifestations à Hong Kong prennent de l'ampleur"
- hongkong.10.d: "Les protestations contre les actions chinoises sur le territoire de Hong Kong ont rapidement augmenté, les analystes s'accordant à dire que les protestations sont entrées dans une nouvelle phase en termes d'ampleur et de tactique. Il reste à voir comment les gouvernements chinois et hongkongais réagiront à cette nouvelle escalade, mais les responsables des deux gouvernements seraient de plus en plus irrités par l'impact des protestations sur leurs intérêts particuliers. Les manifestants, quant à eux, refusent de se retirer tant que les gouvernements chinois et hongkongais n'auront pas répondu à leurs demandes."
- hongkong.10.a: "Le peuple de Hong Kong ne restera pas silencieux..."
- hongkong.10.b: "Ils resteront à la maison s'ils savent ce qui est le mieux pour eux!"
+ hongkong_news.3.d: "Les protestations contre les actions chinoises sur le territoire de Hong Kong ont rapidement augmenté, les analystes s'accordant à dire que les protestations sont entrées dans une nouvelle phase en termes d'ampleur et de tactique. Il reste à voir comment les gouvernements chinois et hongkongais réagiront à cette nouvelle escalade, mais les responsables des deux gouvernements seraient de plus en plus irrités par l'impact des protestations sur leurs intérêts particuliers. Les manifestants, quant à eux, refusent de se retirer tant que les gouvernements chinois et hongkongais n'auront pas répondu à leurs demandes."
+ hongkong_news.3.a: "Le peuple de Hong Kong ne restera pas silencieux..."
+ hongkong_news.3.b: "Ils resteront à la maison s'ils savent ce qui est le mieux pour eux!"
 
  #Korea
  korea.1.t: "La Chine exige notre retrait de la péninsule coréenne"
