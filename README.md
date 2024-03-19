@@ -22,5 +22,6 @@ French translation for Millenium Dawn: A Modern Day Mod
 ### Remarque
 
 Si vous trouvez une erreur/un oubli, ou pour toute autre suggestions, **veuillez m'en faire part sur ce Github UNIQUEMENT**, je ne répondrais pas aux demandes privées, en effet, je ne peux pas me souvenir de tout, d'ici je peux tout faire sans avoir à chercher sur les différents réseaux mis à disposition.
+Lien Github pour tout problème: https://github.com/DamienCarrere/Millenium-Dawn-french-translation/issue
 
 Merci de votre compréhension et bon jeu!
