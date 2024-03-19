@@ -2,7 +2,7 @@
 Traduction française pour Millenium Dawn: A Modern Day Mod
 French translation for Millenium Dawn: A Modern Day Mod
 
-## Comment l'utiliser? / How to use it
+## Comment l'utiliser?
 
 1/ Tout d'abord, vous devez télécharger la dernière version de la traduction: 
 
